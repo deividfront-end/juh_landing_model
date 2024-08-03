@@ -87,6 +87,7 @@ header{
     border-radius: 50px;
     transition: 0.2s;
     margin: 0 5px;
+    font-family: cursive;
 
 }
 
@@ -478,21 +479,7 @@ ul{
    font-family: cursive;
  }
 
- button{
-    background-color: #ffffff;
-    margin-left:none;
-    border-radius: 20px;
-    width:92px ;
-    height:30px ;
-    color:rgb(0, 0, 0);
- }
- 
- button{
-    background-color: #ff0a7c!important;
-    transition: 1s;
-    color:#ffffff;
-   
- }
+
 
 
 .container-Contato{
@@ -514,6 +501,11 @@ ul{
     padding: 20px 10%;
     color:#ffffff;
 }
+.nav-bar  li a:hover{
+    color: #ffffff;
+    background-color: #ff00ff;
+}
+
 
 
 
